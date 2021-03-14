@@ -20,10 +20,5 @@
 .sidebar-item-active,
 .sidebar-item-active:hover {
     background-color: #E0E0E0;
-    ;
     cursor: default;
-}
-
-.icon-active {
-    fill: white;
 }
