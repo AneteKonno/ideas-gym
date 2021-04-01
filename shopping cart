@@ -1,0 +1,12 @@
+<h1>Your cart</h1>
+<div class="container">
+    <div class="row align-items-start">
+      <div class="col">
+        Course
+      </div>
+      <div class="col">
+        Price
+      </div>
+    </div>
+<button type="button" class="btn btn-check out">check out</button>
+<button type="button" class="btn btn-back to shop">back to shop</button>
