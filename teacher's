@@ -1,0 +1,11 @@
+ <div class="carousel-item">
+              <img src="pictures/For Families.jpg" alt="displayP" width="500" height="500">
+              <div class="container">
+                <div class="carousel-caption text-end">
+                  <h1 style="color: tomato;">So easy, I got it!</h1>
+                  <p>Have a look of children's work!</p>
+                  <p><a class="btn btn-lg btn-primary" href="#">Browse gallery</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
