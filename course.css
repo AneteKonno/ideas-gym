@@ -50,3 +50,12 @@
 .teacher-image {
     width: 100%;
 }
+
+.teacher-link {
+    text-decoration: none;
+    color: black;
+}
+
+.teacher-link:hover {
+    color: black;
+}
