@@ -20,24 +20,24 @@ const courses = [{
     "duration": 11,
     "description": "IdeasGym has partnered with Cogmation who are creators of simulation software,Virtual Robotics Toolkit that helps..."
 }, {
-    "image": "./images/lego.png",
-    "title": "LEGO Robots Using Virtual Robot Toolkit",
+    "image": "./images/java.png",
+    "title": "JavaScrip for beginners",
     "subject": "Programming",
-    "price": 49,
-    "duration": 10,
+    "price": 80,
+    "duration": 8,
     "description": "IdeasGym has partnered with Cogmation who are creators of simulation software,Virtual Robotics Toolkit that helps...",
 }, {
-    "image": "./images/ai.png",
-    "title": "LEGO Robots Using Virtual Robot Toolkit",
+    "image": "./images/machine.jpeg",
+    "title": "Machine Learning",
     "subject": "AI",
-    "price": 69,
-    "duration": 12,
+    "price": 120,
+    "duration": 16,
     "description": "IdeasGym has partnered with Cogmation who are creators of simulation software,Virtual Robotics Toolkit that helps..."
 }, {
-    "image": "./images/robot.png",
-    "title": "LEGO Robots Using Virtual Robot Toolkit",
+    "image": "./images/robot_hands.jpeg",
+    "title": "Building Robots",
     "subject": "Robotics",
-    "price": 59,
-    "duration": 11,
+    "price": 99,
+    "duration": 16,
     "description": "IdeasGym has partnered with Cogmation who are creators of simulation software,Virtual Robotics Toolkit that helps..."
 }]

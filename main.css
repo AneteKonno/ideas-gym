@@ -17,3 +17,8 @@
 .sidebar-item-active:hover {
     cursor: default;
 }
+
+.language-icon {
+    width: 18px;
+    height: 18px;
+}
