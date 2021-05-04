@@ -4,6 +4,7 @@ const courses = [{
     "subject": "Programming",
     "price": 49,
     "duration": 10,
+    "level": "Beginner",
     "description": "IdeasGym has partnered with Cogmation who are creators of simulation software,Virtual Robotics Toolkit that helps...",
 }, {
     "image": "./images/ai.png",
@@ -11,6 +12,7 @@ const courses = [{
     "subject": "AI",
     "price": 69,
     "duration": 12,
+    "level": "Intermediate",
     "description": "IdeasGym has partnered with Cogmation who are creators of simulation software,Virtual Robotics Toolkit that helps..."
 }, {
     "image": "./images/robot.png",
@@ -18,6 +20,7 @@ const courses = [{
     "subject": "Robotics",
     "price": 59,
     "duration": 11,
+    "level": "Advanced",
     "description": "IdeasGym has partnered with Cogmation who are creators of simulation software,Virtual Robotics Toolkit that helps..."
 }, {
     "image": "./images/java.png",
@@ -25,6 +28,7 @@ const courses = [{
     "subject": "Programming",
     "price": 80,
     "duration": 8,
+    "level": "Beginner",
     "description": "IdeasGym has partnered with Cogmation who are creators of simulation software,Virtual Robotics Toolkit that helps...",
 }, {
     "image": "./images/machine.jpeg",
@@ -32,6 +36,7 @@ const courses = [{
     "subject": "AI",
     "price": 120,
     "duration": 16,
+    "level": "Advanced",
     "description": "IdeasGym has partnered with Cogmation who are creators of simulation software,Virtual Robotics Toolkit that helps..."
 }, {
     "image": "./images/robot_hands.jpeg",
@@ -39,5 +44,6 @@ const courses = [{
     "subject": "Robotics",
     "price": 99,
     "duration": 16,
+    "level": "Intermediate",
     "description": "IdeasGym has partnered with Cogmation who are creators of simulation software,Virtual Robotics Toolkit that helps..."
 }]
