@@ -22,3 +22,25 @@
         font-weight: bold;
     }
 }
+
+#follow-button {
+    color: #FFFFFF;
+    background-color: #3399FF;
+    border: 1px solid;
+    border-color: #3399FF;
+    border-radius: 3px;
+    width: 95px;
+    left: 50px;
+    cursor: hand;		    
+  }
+
+#contactUs {
+    color: #FFFFFF;
+    background-color: #3399FF;
+    border: 1px solid;
+    border-color: #3399FF;
+    border-radius: 3px;
+    width: 130px;
+    left: 50px;
+    cursor: hand; 
+}
